@@ -1,0 +1,7 @@
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\bin\Debug\Tong cac so nguyen duong nhap vao tu ban phim.exe.config
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\bin\Debug\Tong cac so nguyen duong nhap vao tu ban phim.exe
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\bin\Debug\Tong cac so nguyen duong nhap vao tu ban phim.pdb
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\obj\Debug\Tong cac so nguyen duong nhap vao tu ban phim.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\obj\Debug\Tong cac so nguyen duong nhap vao tu ban phim.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\obj\Debug\Tong cac so nguyen duong nhap vao tu ban phim.exe
+C:\Users\NGUYEN TIEN DUONG\Desktop\C SHARP\C Sharp\Tong cac so nguyen duong nhap vao tu ban phim\obj\Debug\Tong cac so nguyen duong nhap vao tu ban phim.pdb
