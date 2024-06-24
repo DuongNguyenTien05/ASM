@@ -6,7 +6,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tong_cac_so_nguyen_duong_nhap_vao_tu_ban_phim
+namespace ASM_Part1
 {
     internal class Program
     {
